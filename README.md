@@ -22,3 +22,7 @@ can be done on any web server or even local
 file system.
 
 ## How To Contribute
+
+### Copyright
+
+2025 Lance.Bristow
