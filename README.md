@@ -27,4 +27,4 @@ Please fork this repository and then issue Pull Requests for review
 
 ### Copyright
 
-2025 Lance.Bristow
+2025 Lance.Bristow All rights reserved.
